@@ -1,6 +1,7 @@
 function removeShorts() {
   // Find the div with id="content" and class="style-scope ytd-rich-section-renderer"
-  const contentDiv = document.querySelector('div#content.style-scope.ytd-rich-section-renderer');
+  // const contentDiv = document.querySelector('div#content.style-scope.ytd-rich-section-renderer');
+  const contentDiv = document.querySelector('grid-shelf-view-model');
 
   if (contentDiv) {
     console.log('FocusTube: Found and removing content div');
