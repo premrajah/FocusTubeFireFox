@@ -9,3 +9,7 @@ A chrome extension that removes the short block of the YouTube homepage and redu
 ### Install
 
 [https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
+
+### Firefox Test in Debugging 
+[about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+Load Temperory Add-On and select any file.
